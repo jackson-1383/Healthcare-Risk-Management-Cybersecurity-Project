@@ -1,2 +1,3 @@
-# Healthcare-Risk-Management-Cybersecurity-Project
-Developed a comprehensive risk management plan for a healthcare organization, assessing cybersecurity, operational, and regulatory risks across enterprise systems.
+© 2026 Kendra Jackson. All rights reserved.
+
+This work may not be copied, modified, distributed, or used without the express written permission of the author.
